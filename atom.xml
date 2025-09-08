@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Mkqdd&#39;s blog</title>
   
-  
+  <subtitle>Forever Young</subtitle>
   <link href="http://mkqdd.github.io/atom.xml" rel="self"/>
   
   <link href="http://mkqdd.github.io/"/>
-  <updated>2025-09-01T14:08:58.415Z</updated>
+  <updated>2025-09-02T09:17:24.705Z</updated>
   <id>http://mkqdd.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://mkqdd.github.io/2025/09/02/test/"/>
+    <id>http://mkqdd.github.io/2025/09/02/test/</id>
+    <published>2025-09-02T09:05:11.000Z</published>
+    <updated>2025-09-02T09:17:24.705Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;类和对象&quot;&gt;&lt;a href=&quot;#类和对象&quot; class=&quot;headerlink&quot; title=&quot;类和对象&quot;&gt;&lt;/a&gt;类和对象&lt;/h1&gt;&lt;p&gt;本文将正式开始学习 C++</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
